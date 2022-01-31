@@ -1,4 +1,4 @@
-![BACKGROUND](Image/markdownback.jpg)
+![BACKGROUND](Image/markdownback.png)
 
 
 # Space-Invader-PyGame
